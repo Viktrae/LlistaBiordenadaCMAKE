@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Juan Diego/CLionProjects/listaC/llista.c
+llista.h
+C:/Users/Juan Diego/CLionProjects/listaC/llista.h
+stdio.h
+-
+
+C:/Users/Juan Diego/CLionProjects/listaC/llista.h
+stdlib.h
+-
+stdio.h
+-
+
+C:/Users/Juan Diego/CLionProjects/listaC/main.c
+llista.h
+C:/Users/Juan Diego/CLionProjects/listaC/llista.h
+
